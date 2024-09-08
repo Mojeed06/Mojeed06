@@ -11,8 +11,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65" />
+      <br>Dart
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
@@ -27,7 +27,7 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
   </tr>
@@ -49,8 +49,8 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <br>Flutter
     </td>
   </tr>
 </table>
