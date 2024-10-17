@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="65" height="65" />
       <br>Dart
     </td>
     <td align="center" width="96">
